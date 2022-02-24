@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sptele
-- 👀 I’m interested in java,
-- 🌱 I’m currently learning to use PostgreSQL in Java!
+- 👀 I’m interested in ReactJS,
+- 🌱 I’m currently working on my Advanced Placement Computer Science Principles Project!
 - 📫 How to reach me: Discord: Sptele#2664
 
 <!---
