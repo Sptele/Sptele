@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sptele
-- 👀 I’m interested in ReactJS,
-- 🌱 I’m currently working on my Advanced Placement Computer Science Principles Project!
+- 👋 Hi, I’m @Sptele, a sophmore in HS interested in everything CS!
+- 👀 I’m interested in ReactJS, and NextJS.
+- 🌱 I’m currently working on a Trello Clone, called Kanan.
 - 📫 How to reach me: Discord: Sptele#2664
 
 <!---
