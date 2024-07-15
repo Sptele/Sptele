@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sptele, a sophmore in HS interested in everything CS!
+- 👋 Hi, I’m @Sptele, a senior in HS interested in everything CS!
 - 👀 I’m interested in ReactJS, and NextJS.
-- 🌱 I’m currently working on a Trello Clone, called Kanan.
+- 🌱 I’m currently working on Hey Blue!
 - 📫 How to reach me: Discord: Sptele#2664
 
 <!---
